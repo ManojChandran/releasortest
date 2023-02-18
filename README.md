@@ -1,0 +1,2 @@
+# releasortest
+testing Go releaser
